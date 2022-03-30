@@ -133,9 +133,9 @@
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
 				"/Game/ThirdPersonBP/3DObjects/Biped/RobotWhite",
-				"/Game/ThirdPersonBP/3DObjects/Biped/RobotShirt",
 				"/Game/ThirdPersonBP/3DObjects/Biped/RobotShoes",
 				"/Game/ThirdPersonBP/3DObjects/Biped/RobotPant_",
+				"/Game/ThirdPersonBP/3DObjects/Biped/RobotShirt",
 				"/Game/ThirdPersonBP/3DObjects/Biped/RobotBlack"
 			]
 		},
@@ -251,6 +251,18 @@
 			"ShaderMapHash": "37476718AB615B0787E6EB7A9121F6C2E552D441",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "3BD296503959C6F2A934C826B89116C25A4DE445",
+			"Assets": [
+				"/Game/ThirdPersonBP/3DObjects/Biped/RobotBody"
+			]
+		},
+		{
+			"ShaderMapHash": "7C46CC064C0718E10C230283BC9DF5D8E432DD31",
+			"Assets": [
+				"/Game/ThirdPersonBP/3DObjects/3DName/NeonGreen"
 			]
 		},
 		{
@@ -588,15 +600,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3BD296503959C6F2A934C826B89116C25A4DE445",
+			"ShaderMapHash": "774A222D76505BDE2EDF39520AE098CEDE33F7F2",
 			"Assets": [
-				"/Game/ThirdPersonBP/3DObjects/Biped/RobotBody"
+				"/Game/ThirdPersonBP/3DObjects/Images/Harshit-Modified-3_Mat"
 			]
 		},
 		{
-			"ShaderMapHash": "7C46CC064C0718E10C230283BC9DF5D8E432DD31",
+			"ShaderMapHash": "2F968BE85670CB84FB84F46E7B01EE8EFA5E1013",
 			"Assets": [
-				"/Game/ThirdPersonBP/3DObjects/3DName/NeonGreen"
+				"/Game/MyContent/Materials/M_BPGREEN"
+			]
+		},
+		{
+			"ShaderMapHash": "82448F8B2FC1633DD23514245201942F743EEA49",
+			"Assets": [
+				"/Game/MyContent/Materials/M_BPRED"
+			]
+		},
+		{
+			"ShaderMapHash": "7373D449DAD437035CABCB9C839030001FB2F1FB",
+			"Assets": [
+				"/Game/MyContent/Materials/M_BPBLUE"
+			]
+		},
+		{
+			"ShaderMapHash": "7C88E5B2E9A0694C811CCACDCB04C7B29A5DA6AE",
+			"Assets": [
+				"/Game/MyContent/Materials/NEON_GREEN"
 			]
 		}
 	]
